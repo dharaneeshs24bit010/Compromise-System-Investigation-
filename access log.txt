@@ -1,0 +1,9 @@
+USB Connected: 22:43
+User: Dharaneesh
+Path opened: \Secrets\
+
+USB Connected: 22:43 → A USB device was plugged in at that time.
+
+User: yourname → The system account currently active when the USB was connected.
+
+*Path opened: \Secrets* → A folder with that name was accessed on the USB or local system.

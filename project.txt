@@ -1,0 +1,13 @@
+A computer network is a collection of interconnected devices that share resources, data, and services.
+
+Examples of networked devices:
+
+Computers
+
+Servers
+
+Routers & switches
+
+IoT devices
+
+Smartphones
